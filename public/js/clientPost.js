@@ -1,10 +1,8 @@
 window.onload=function(){
     console.log("client js POST loaded");
-  };
-
-  //submit
+    //submit
 // form
-$( "#formFavs" ).submit(function( event ) {
+  $( "#formFavs" ).submit(function( event ) {
     event.preventDefault();
   // get the form data ...
    
@@ -33,3 +31,4 @@ $( "#formFavs" ).submit(function( event ) {
              }
            });
          })//submit
+};

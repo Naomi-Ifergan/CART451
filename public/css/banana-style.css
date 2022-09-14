@@ -1,17 +1,20 @@
-h1{
- 
+h1 
+{
     color:#33c1ff;
     background:#cae8f5;
-  }
+}
 
-  #container{
+#container 
+{
     background:#decaf5;
     width:50%;
     margin:5%;
     border:solid #a360f0;
     padding:2%;
-  }
-  label{
+}
+
+label 
+{
     display:inline-block;
     width:30%;
-  }
+}
